@@ -1,0 +1,4 @@
+EnterNo	sensorNo	Temperature	Humidity	Light
+1	s1	36.5	100	50
+2	s3	30	100	50
+3	s2	-6.6	100	10
